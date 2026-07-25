@@ -40,3 +40,4 @@ Simply input the details, preview the dork, and click to search — all in one c
 
 ---
 
+LinkTree: [https://linktr.ee/abhinavsingwal](https://linktr.ee/abhinavsingwal)
