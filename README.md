@@ -3,8 +3,6 @@
 > A web-based OSINT tool that generates Google dorks to find people using their name and a clue.
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/yogsec/People-Search?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yogsec/People-Search?style=social)
 <br/>
 ![People Search](https://github.com/yogsec/People-Search/blob/main/People%20Search.png?raw=true)
 
