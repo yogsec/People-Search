@@ -16,7 +16,7 @@
 
 Simply input the details, preview the dork, and click to search — all in one clean interface.
 
-**People Search:** [yogsec.github.io/People-Search](https://yogsec.github.io/People-Search/)
+** Use People Search:** [yogsec.github.io/People-Search](https://yogsec.github.io/People-Search/)
 
 ---
 
