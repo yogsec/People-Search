@@ -39,7 +39,3 @@ Simply input the details, preview the dork, and click to search — all in one c
 ---
 
 LinkTree: [https://linktr.ee/abhinavsingwal](https://linktr.ee/abhinavsingwal)
-<br/>
-LinkedIn: [https://www.linkedin.com/in/abhinavsingwal/](https://www.linkedin.com/in/abhinavsingwal/)
-<br/>
-X: [https://x.com/yogsec](https://x.com/yogsec)
