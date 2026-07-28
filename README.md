@@ -1,4 +1,4 @@
-# People-Search
+# People Search
 
 > A web-based OSINT tool that generates Google dorks to find people using their name and a clue.
 
